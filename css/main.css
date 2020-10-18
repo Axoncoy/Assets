@@ -8174,8 +8174,8 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 @font-face {
   font-display: swap;
   font-family: 'FontAwesome';
-  src: url("https://cdn.jsdelivr.net/gh/Capricoy/Assets/fonts/icomoon.eot?v=4.7.1");
-  src: url("https://cdn.jsdelivr.net/gh/Capricoy/Assets/fonts/icomoon.eot?#iefix&v=4.7.1") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/Capricoy/Assets/fonts/icomoon.woff?v=4.7.1") format("woff"), url("https://cdn.jsdelivr.net/gh/Capricoy/Assets/fonts/icomoon.ttf?v=4.7.1") format("truetype"), url("https://cdn.jsdelivr.net/gh/Capricoy/Assets/images/icomoon.svg?v=4.7.1#fontawesomeregular") format("svg");
+  src: url("https://cdn.jsdelivr.net/gh/Axoncoy/Assets/fonts/icomoon.eot?v=4.7.1");
+  src: url("https://cdn.jsdelivr.net/gh/Axoncoy/Assets/fonts/icomoon.eot?#iefix&v=4.7.1") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/Axoncoy/Assets/fonts/icomoon.woff?v=4.7.1") format("woff"), url("https://cdn.jsdelivr.net/gh/Axoncoy/Assets/fonts/icomoon.ttf?v=4.7.1") format("truetype"), url("https://cdn.jsdelivr.net/gh/Axoncoy/Assets/images/icomoon.svg?v=4.7.1#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
