@@ -10,7 +10,7 @@
             }
             
             body {
-                background-image: url(https://cdn.jsdelivr.net/gh/Capricoy/Assets/images/bg.jpg);
+                background-image: url(https://cdn.jsdelivr.net/gh/Axoncoy/Assets/images/bg.jpg);
                 background-repeat: no-repeat;
                 background-attachment: fixed;
                 background-size: cover;
@@ -48,7 +48,7 @@
             .headPhoto {
                 width: 8rem;
                 height: 8rem;
-                background: url(https://cdn.jsdelivr.net/gh/Capricoy/Assets/images/avator.jpg) no-repeat;
+                background: url(https://cdn.jsdelivr.net/gh/Axoncoy/Assets/images/avator.jpg) no-repeat;
                 background-size: cover;
                 border-radius: 50%;
                 position: relative;
