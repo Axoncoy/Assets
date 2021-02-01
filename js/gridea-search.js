@@ -93,7 +93,7 @@
         }
         else {
             ajax({
-                url: '/api-content/index.html',
+                url: '/blog/api-content/index.html',
                 success: function (data) {
                     callback(JSON.parse(data));
                     localStorage.setItem('ContentsCache', data);
@@ -110,7 +110,7 @@
         }
         else {
             ajax({
-                url: '/api-info/index.html',
+                url: '/blog/api-info/index.html',
                 success: function (data) {
                     callback(JSON.parse(data));
                     localStorage.setItem('InfosCache', data);
