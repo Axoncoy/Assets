@@ -10,6 +10,11 @@
   display: block;
   margin: 0 20px;
 }
+
+body{
+cursor:url("https://cdn.jsdelivr.net/gh/Axoncoy/Assets/images/mouse.cur"),auto
+}
+
 .grid-container:before,
 .grid-5:before,
 .mobile-grid-5:before,
