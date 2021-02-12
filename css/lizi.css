@@ -21,7 +21,7 @@ audio:hover{
     right: 0;
 }
 div#midground{
-    background: url("../img/midground.png");
+    background: url("https://cdn.jsdelivr.net/gh/Axoncoy/Assets/images/midground.png");
     z-index: 1;
     -webkit-animation: cc 100s linear infinite;
     -moz-animation: cc 100s linear infinite;
@@ -29,7 +29,7 @@ div#midground{
     animation: cc 100s linear infinite;
 }
 div#foreground{
-    background: url("../img/foreground.png");
+    background: url("https://cdn.jsdelivr.net/gh/Axoncoy/Assets/images/foreground.png");
     z-index: 2;
     -webkit-animation: cc 153s linear infinite;
     -o-animation: cc 153s linear infinite;
@@ -37,7 +37,7 @@ div#foreground{
     animation: cc 153s linear infinite;
 }
 div#top{
-    background: url("../img/midground.png");
+    background: url("https://cdn.jsdelivr.net/gh/Axoncoy/Assets/images/midground.png");
     z-index: 4;
     -webkit-animation: dd 100s linear infinite;
     -o-animation: dd 100s linear infinite;
