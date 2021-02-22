@@ -45,7 +45,7 @@ document.onselectstart = function(t) {
     }
 };
 
-//debug调试时跳转页面
+//按F12时跳转页面
 var element = new Image();
 Object.defineProperty(element, 'id', {
     get: function() {
@@ -53,3 +53,11 @@ Object.defineProperty(element, 'id', {
     }
 });
 console.log(element);
+
+//本站运行时间代码
+var s1 = '2020-02-22';//设置为你的建站时间
+s1 = new Date(s1.replace(/-/g, "/"));
+s2 = new Date();
+var days = s2.getTime() - s1.getTime();
+var number_of_days = parseInt(days / (1000 * 60 * 60 * 24));
+document.getElementById('days').innerHTML = number_of_days;
